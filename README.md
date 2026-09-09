@@ -14,7 +14,7 @@ The project demonstrates an end-to-end data analytics workflow covering **data p
 
 # Dashboard Preview
 
-## Executive Overview
+## Hospital Overview
 
 ![Executive Overview](Screenshots/Executive_Overview.png)
 
