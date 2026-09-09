@@ -16,7 +16,7 @@ The project demonstrates an end-to-end data analytics workflow covering **data p
 
 ## Hospital Overview
 
-![Executive Overview](Screenshots/Executive_Overview.png)
+![Executive Overview](Hospital_Overview.png)
 
 The Executive Overview provides a high-level view of hospital activity, allowing stakeholders to quickly monitor key operational KPIs, patient trends, departmental performance, readmissions, and abnormal vital-sign activity.
 
